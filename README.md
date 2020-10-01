@@ -1,4 +1,4 @@
-# Website
+# Web development
 
 Trying out HTML/CSS and Bootstrap.
 
